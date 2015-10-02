@@ -21,8 +21,7 @@ public class GameMoveTest {
 
     @Test
     public void test02validMoveValuesTest() throws Exception {
-	throw new Exception("AAAA");
-        GameMove testMove;
+	GameMove testMove;
 
         int testMaxX = GameBoard.horizontalSize;
         int testMaxY = GameBoard.verticalSize;
@@ -61,6 +60,8 @@ public class GameMoveTest {
         }
 
         System.out.println("All possible move objects are ok.");
+throw new Exception("AAAA");
+        
     }
 
     private boolean checkValues(GameMove testMove, int x, int y, char d) {
