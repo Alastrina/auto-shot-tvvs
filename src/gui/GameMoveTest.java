@@ -21,6 +21,7 @@ public class GameMoveTest {
 
     @Test
     public void test02validMoveValuesTest() throws Exception {
+	throw new Exception("AAAA");
         GameMove testMove;
 
         int testMaxX = GameBoard.horizontalSize;
