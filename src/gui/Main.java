@@ -7,7 +7,7 @@ import javafx.fxml.JavaFXBuilderFactory;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.layout.GridPane;
-import javafx.stage.Stage;
+//import javafx.stage.Stage;
 
 import java.io.InputStream;
 import java.util.logging.Level;
