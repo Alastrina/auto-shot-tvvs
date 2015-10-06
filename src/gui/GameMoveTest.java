@@ -60,7 +60,6 @@ public class GameMoveTest {
         }
 
         System.out.println("All possible move objects are ok.");
-throw new Exception("AAAA");
         
     }
 
